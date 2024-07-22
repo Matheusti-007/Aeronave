@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Aeronave
+comment1.params=
+comment1.target=Aeronave()
+comment2.params=modelo
+comment2.target=Aeronave(java.lang.String)
+comment3.params=
+comment3.target=int\ getId()
+comment4.params=id
+comment4.target=void\ setId(int)
+comment5.params=
+comment5.target=java.lang.String\ getModelo()
+comment6.params=modelo
+comment6.target=void\ setModelo(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

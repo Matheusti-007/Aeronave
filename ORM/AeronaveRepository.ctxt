@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=AeronaveRepository
+comment1.params=database
+comment1.target=AeronaveRepository(Database)
+comment2.params=database
+comment2.target=void\ setDatabase(Database)
+comment3.params=aeronave
+comment3.target=Aeronave\ create(Aeronave)
+comment4.params=aeronave
+comment4.target=void\ update(Aeronave)
+comment5.params=aeronave
+comment5.target=void\ delete(Aeronave)
+comment6.params=id
+comment6.target=Aeronave\ loadFromId(int)
+comment7.params=
+comment7.target=java.util.List\ loadAll()
+numComments=8
